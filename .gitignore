@@ -1,0 +1,22 @@
+.venv/
+Dataset/
+
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Model weights / data
+# *.h5
+# *.pkl
+# /models/
+
+# OS files
+.DS_Store
+Thumbs.db
